@@ -1,0 +1,32 @@
+@ToDoListAPIJWT_HostAddress = https://localhost:7041
+
+GET {{ToDoListAPIJWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ToDoListAPIJWT_HostAddress}}/api/todo
+
+###
+
+POST {{ToDoListAPIJWT_HostAddress}}/api/todo
+Content-Type: application/json
+
+{
+  //TodoItem
+}
+
+###
+
+DELETE {{ToDoListAPIJWT_HostAddress}}/api/todo/0
+
+###
+
+PUT {{ToDoListAPIJWT_HostAddress}}/api/todo/0
+Content-Type: application/json
+
+{
+  //TodoItem
+}
+
+###
