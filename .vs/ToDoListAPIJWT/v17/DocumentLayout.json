@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|c:\\users\\hp\\onedrive\\desktop\\html\\todolistapijwt\\todolistapijwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49996B-9CCA-4EA5-8333-DA2A1560476A}|ToDoListAPIJWT.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 216,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,36 +69,47 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:25:45.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCMAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:01:26.01Z"
+              "WhenOpened": "2025-01-29T08:01:26.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "Services\\JwtService.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Services\\JwtService.cs",
               "RelativeToolTip": "Services\\JwtService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwBQAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:00:06.721Z"
+              "WhenOpened": "2025-01-29T08:00:06.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -102,36 +117,38 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:54:22.422Z"
+              "WhenOpened": "2025-01-29T07:54:22.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T08:04:31.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Models\\TodoItem.cs",
               "RelativeToolTip": "Models\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:58:47.923Z"
+              "WhenOpened": "2025-01-29T07:58:47.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\HTML\\ToDoListAPIJWT\\ToDoListAPIJWT\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -139,7 +156,8 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:57:55.3Z"
+              "WhenOpened": "2025-01-29T07:57:55.3Z",
+              "EditorCaption": ""
             }
           ]
         }

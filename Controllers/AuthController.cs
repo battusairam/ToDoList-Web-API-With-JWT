@@ -41,7 +41,7 @@ public class AuthController : ControllerBase
 
         return Ok(new
         {
-            token = tokenResponse.Token,
+            token = $"Bearer {tokenResponse.Token}",
             expiration = tokenResponse.Expiration.ToString("o") // Format expiration as ISO 8601 string
         });
     }

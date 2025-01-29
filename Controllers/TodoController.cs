@@ -14,13 +14,43 @@ namespace ToDoListAPIJWT.Controllers
     {
         private readonly ApplicationDbContext _context;
 
-        public TodoController(ApplicationDbContext context)=> _context = context;
-        
+        public TodoController(ApplicationDbContext context) => _context = context;
 
         [HttpGet]
-        public ActionResult<IEnumerable<TodoItem>> Get()
+        public ActionResult<IEnumerable<TodoItem>> Get(
+            [FromQuery] string? search,
+            [FromQuery] int page = 1,
+            [FromQuery] int pageSize = 10)
         {
-            return Ok(_context.TodoItems.ToList());
+            if (page < 1 || pageSize < 1)
+            {
+                return BadRequest("Page and pageSize must be greater than 0.");
+            }
+
+            var query = _context.TodoItems.AsQueryable();
+
+            // Apply search filter
+            if (!string.IsNullOrEmpty(search))
+            {
+                query = query.Where(t => t.Title.Contains(search));
+            }
+
+            // Apply pagination
+            var totalItems = query.Count();
+            var items = query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+
+            var response = new
+            {
+                TotalItems = totalItems,
+                Page = page,
+                PageSize = pageSize,
+                Items = items
+            };
+
+            return Ok(response);
         }
 
         [HttpPost]
